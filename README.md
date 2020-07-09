@@ -6,7 +6,7 @@ O hai! I'm Walter, a designer working on [open source volunteering software](htt
 🦄  &nbsp;&nbsp;Listen thoroughly<br>
 🧐  &nbsp;&nbsp;Keep it simple <br>
 🤺  &nbsp;&nbsp;Pick your battles<br>
-💩  &nbsp;&nbsp;Do awesome good 💩
+💩  &nbsp;&nbsp;Do awesome good stuff
 
 
 ## Get in touch

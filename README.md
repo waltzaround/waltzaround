@@ -9,7 +9,7 @@ O hai! I'm Walter, a designer working on open source [volunteering software](htt
 💩  &nbsp;&nbsp;Do awesome good stuff
 
 ## How I work / What I believe 
-I try to ensure everyone is on the same boat in terms of context and purpose before either designing or building. I see design research not as a guaranteed panacea for success, but as a sufficiently useful tool given that the [correlation/causation fallacy](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) is always a risk. (or even [p-hacking](https://en.wikipedia.org/wiki/Data_dredging) if you're feeling malicious) I see code and wireframes being cheap if its a new project, but becoming exponentially expensive to maintain given enough time and pivoting.
+I try to ensure everyone is on the same boat in terms of context and purpose before either designing or building. I see design research not as a guaranteed panacea for success, but as a sufficiently useful tool given that the [correlation/causation fallacy](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation) is always a risk. (or even [p-hacking](https://en.wikipedia.org/wiki/Data_dredging) if you're feeling malicious 🤮 ) I see code and wireframes being cheap if its a new project, but becoming exponentially expensive to maintain given enough time and pivoting.
 
 ## Get in touch
 - Twitter: https://twitter.com/iwaltzaround

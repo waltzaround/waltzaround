@@ -1,16 +1,14 @@
-### Hi there 👋
+# Walter Lim 
 
-<!--
-**waltzaround/waltzaround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O hai! I'm Walter, a designer working on [open source volunteering software](https://voluntarily.nz), and [a simple online store builder](https://swiftly.nz)to help small businesses. I'm based in Auckland, New Zealand and I love playing with experimental tech. See repos or personal website for more info. 🤓 
 
-Here are some ideas to get you started:
+## My values
+🤓  &nbsp;&nbsp;Listen thoroughly<br>
+🧐  &nbsp;&nbsp;Keep it simple <br>
+🤺  &nbsp;&nbsp;Pick your battles
+🦄  &nbsp;&nbsp;Do awesome good 💩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Get in touch
+- Twitter: https://twitter.com/iwaltzaround
+- Personal site: https://walt.online/

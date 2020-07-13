@@ -14,5 +14,5 @@ I try to ensure everyone is on the same boat in terms of context and purpose bef
 I regard code and wireframes as cheap if it's a new project, but it becomes exponentially expensive to maintain, or let alone design for given enough time and pivoting. 
 
 ## Get in touch
-- Twitter: https://twitter.com/iwaltzaround
-- Personal site: https://walt.online/
+- Twitter: [@iwaltzaround](https://twitter.com/iwaltzaround)
+- Personal site: [walt.online](https://walt.online/)

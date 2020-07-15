@@ -1,6 +1,6 @@
 # Walter Lim 
 
-O hai! I'm Walter, a designer building open source [volunteering software](https://voluntarily.nz), and an [online store builder](https://swiftly.nz) to help small businesses sell stuff. I'm based in Auckland, New Zealand and I love playing with experimental tech when it's not used in production systems 😅 .  See repos or [personal website](https://walt.online) for more info. 
+O hai! I'm Walter, a designer building open source [volunteering software](https://voluntarily.nz), and an [online store builder](https://swiftly.nz) to help small businesses sell stuff. I'm based in Auckland, New Zealand and I love doing ridiculous things with experimental tech when it's not used in production systems 😅 .  See repos or [personal website](https://walt.online) for more info. 
 
 ## My values
 🦄  &nbsp;&nbsp;Listen thoroughly<br>

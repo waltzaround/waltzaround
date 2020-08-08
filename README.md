@@ -4,7 +4,7 @@ O hai! I'm Walter, a designer currently building open source [volunteering softw
 
 ## My values
 🦄  &nbsp;&nbsp;Listen thoroughly<br>
-🧐  &nbsp;&nbsp;Keep it simple silly<br>
+🧐  &nbsp;&nbsp;Keep it simple<br>
 🤺  &nbsp;&nbsp;Pick your battles<br>
 💩  &nbsp;&nbsp;Do awesome good stuff that helps people
 

@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/waltzaround/waltzaround/blame/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 # Walter Lim 
 
 O hai! I'm Walter, a designer from New Zealand who loves designing + building ridiculous things with experimental tech when it's not used in production systems 😅 .  See repos or [personal website](https://walt.online) for more info. 

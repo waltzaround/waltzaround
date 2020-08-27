@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/waltzaround/waltzaround/master/header.svg">
-		<svg src="header.svg" width="800" height="400">
+		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
 </div>

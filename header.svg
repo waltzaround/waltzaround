@@ -77,6 +77,9 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+				html body span.p-name.vcard-fullname.d-block.overflow-hidden {
+   					font-family: "Comic Sans MS";
+				}
 			</style>
 			<div class="container">
 				<h1>Walter Lim<br/>is a designer lmao</h1>

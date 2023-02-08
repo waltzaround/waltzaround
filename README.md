@@ -24,3 +24,4 @@ I see design & UX research not as a guaranteed panacea for success as some might
 ## Get in touch
 - Twitter: [@iwaltzaround](https://twitter.com/iwaltzaround)
 - Personal site: [walt.online](https://walt.online/)
+- Mastodon: <a rel="me" href="https://mastodon.nz/@walt">Mastodon</a>

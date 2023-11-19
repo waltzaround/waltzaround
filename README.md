@@ -8,7 +8,7 @@
 
 # Walter Lim 
 
-O hai! I'm Walter, a designer from New Zealand who loves designing + building ridiculous things with experimental tech when it's not used in production systems 😅 .  See repos or [personal website](https://walt.online) for more info. 
+O hai! I'm Walter, a designer from New Zealand who loves designing + building ridiculous things with experimental tech to try stuff out.  See repos or [personal website](https://walt.online) for more info. 
 
 ## My values
 🦄  &nbsp;&nbsp;Listen thoroughly<br>

@@ -12,9 +12,8 @@ O hai! I'm Walter, a designer from New Zealand who loves designing + building ri
 
 ## My values
 🦄  &nbsp;&nbsp;Listen thoroughly<br>
-🧐  &nbsp;&nbsp;Keep it simple<br>
-🤺  &nbsp;&nbsp;Pick your battles<br>
-💩  &nbsp;&nbsp;Do awesome shit that helps people
+🧐  &nbsp;&nbsp;Start simple<br>
+🤺  &nbsp;&nbsp;Pick your battles
 
 ## How I work / What I believe 
 I try to ensure everyone is on the same boat in terms of context and purpose before either designing or building any bets we might make. 
